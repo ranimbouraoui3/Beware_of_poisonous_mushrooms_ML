@@ -31,9 +31,11 @@ This project uses machine learning to classify mushrooms as **edible** or **pois
 
 ## 📂 Structure
 
-├── mushrooms/ # Dataset and preprocessing
-├── Beware_of_poisonous_mushrooms/ # Jupyter notebooks for exploration
-└── README.md
+```
+├── mushrooms/                    # Dataset and preprocessing  
+├── Beware_of_poisonous_mushrooms/ # Jupyter notebooks for exploration  
+└── README.md                     # Project overview and instructions  
+```
 
 
 ## 🚀 Goal
