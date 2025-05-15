@@ -1,6 +1,6 @@
 # 🍄 Beware_of_poisonous_mushrooms - Machine Learning Project
 
-This project uses machine learning to classify mushrooms as **edible** or **poisonous** based on their physical characteristics. The dataset used is the [UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/Mushroom), which contains categorical features describing each mushroom sample.
+This project uses machine learning to classify mushrooms as **edible** or **poisonous** based on their physical characteristics. The dataset used is the Mushrooms Dataset, which contains categorical features describing each mushroom sample.
 
 ## 📌 Objectives
 
